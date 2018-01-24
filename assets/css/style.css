@@ -1,0 +1,31 @@
+.logo {
+	padding: 20px;
+	background: #db6900;
+	display: inline-block;
+	color: #fff;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.instruction {
+	background: #fdffaf;
+	padding: 20px;
+	display: inline-block;
+	margin-top: 20px;
+}
+.instruction p {
+	color: #1d8900;
+	font-weight: bold;
+	font-size: 1.2em;
+	line-height: 1.2em;
+	margin-bottom: 20px;
+	max-width: 500px;
+}
+.random-number {
+	background-color: green;
+	padding: 20px;
+}
+.score {
+	padding: 20px;
+	background: #00ffe9;
+}
